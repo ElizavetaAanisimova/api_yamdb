@@ -148,3 +148,6 @@ dmypy.json
 # папки со статикой и медиа
 media/
 
+# folders with emails
+sent_emails/*
+
